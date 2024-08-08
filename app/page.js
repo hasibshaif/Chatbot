@@ -61,7 +61,7 @@ export default function Home() {
     >
       <Stack
         direction="column"
-        width="600px"
+        width="auto"
         height="700px"
         border="1px solid black"
         p={2}
